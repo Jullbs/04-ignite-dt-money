@@ -23,6 +23,54 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-12-27T19:10:33.616Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-29T13:39:22.499Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-29T13:53:17.972Z",
+      "id": 5
+    },
+    {
+      "description": "Rosquinha",
+      "price": 9,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-29T13:56:05.098Z",
+      "id": 6
+    },
+    {
+      "description": "Sorvete",
+      "price": 23,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-29T13:59:41.999Z",
+      "id": 7
+    },
+    {
+      "description": "Passeio de barco",
+      "price": 320,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2022-12-29T14:01:37.632Z",
+      "id": 8
+    },
+    {
+      "description": "Café",
+      "price": 6,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-29T14:05:54.611Z",
+      "id": 9
     }
   ]
 }
